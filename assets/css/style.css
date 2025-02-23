@@ -31,6 +31,7 @@ header {
     background-color: hsla(0, 0%, 0%, 0.300);
     box-shadow: rgba(0, 0, 0, 0.100) 0px 3px 8px;
     color: var(--ligth-color);
+    -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
     position: fixed;
     width: 100%;
@@ -542,51 +543,51 @@ textarea::placeholder {
 }
 
 .card1::before {
-    background-image: url('/assets/img/cards/25.png');
+    background-image: url('/assets/img/cards/25.webp');
 }
 
 .card2::before {
-    background-image: url('/assets/img/cards/9.png');
+    background-image: url('/assets/img/cards/9.webp');
 }
 
 .card3::before {
-    background-image: url('/assets/img/cards/3.png');
+    background-image: url('/assets/img/cards/3.webp');
 }
 
 .card4::before {
-    background-image: url('/assets/img/cards/27.png');
+    background-image: url('/assets/img/cards/27.webp');
 }
 
 .card5::before {
-    background-image: url('/assets/img/cards/1.png');
+    background-image: url('/assets/img/cards/1.webp');
 }
 
 .card6::before {
-    background-image: url('/assets/img/cards/5.png');
+    background-image: url('/assets/img/cards/5.webp');
 }
 
 .card7::before {
-    background-image: url('/assets/img/cards/19.png');
+    background-image: url('/assets/img/cards/19.webp');
 }
 
 .card8::before {
-    background-image: url('/assets/img/cards/17.png');
+    background-image: url('/assets/img/cards/17.webp');
 }
 
 .card9::before {
-    background-image: url('/assets/img/cards/13.png');
+    background-image: url('/assets/img/cards/13.webp');
 }
 
 .card10::before {
-    background-image: url('/assets/img/cards/15.png');
+    background-image: url('/assets/img/cards/15.webp');
 }
 
 .card11::before {
-    background-image: url('/assets/img/cards/21.png');
+    background-image: url('/assets/img/cards/21.webp');
 }
 
 .card12::before {
-    background-image: url('/assets/img/cards/23.png');
+    background-image: url('/assets/img/cards/23.webp');
 }
 
 .background-container:hover::before {
