@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.supa-servicos.com/sitemap.xml
